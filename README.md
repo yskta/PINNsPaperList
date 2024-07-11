@@ -5,7 +5,8 @@
    - [PaperURL](https://www-sciencedirect-com.kyoto-u.idm.oclc.org/science/article/pii/S0952197621000798?via%3Dihub)
    - [arXiv URL](https://arxiv.org/pdf/2010.02011)
 3. [BNN × Heat Conduction Problem] A Physics-Data-Driven Bayesian Method for Heat Conduction Problems
-   - [arXiv URL](https://arxiv.org/pdf/2109.00996) 
+   - [arXiv URL](https://arxiv.org/pdf/2109.00996)
+   - [CodeURL](https://github.com/yoton12138/HCE-BNN)
 4. [E-PINNs × Inverse Heat Conduction Problem] Practical uncertainty quantification for space-dependent inverse heat conduction problem via ensemble physics-informed neural networks
    - [Paper URL](https://www-sciencedirect-com.kyoto-u.idm.oclc.org/science/article/pii/S0735193323003299)
    - [arXiv URL](https://arxiv.org/pdf/2109.00996)
