@@ -11,3 +11,10 @@
    - [Paper URL](https://www-sciencedirect-com.kyoto-u.idm.oclc.org/science/article/pii/S0735193323003299)
    - [arXiv URL](https://arxiv.org/pdf/2109.00996)
    - [Code URL](https://github.com/yoton12138/E-PINN-practical-uncertainty-quantification)
+4. [KAN × PINNs] Finite basis Kolmogorov-Arnold networks: domain decomposition for data-driven and physics-informed problems
+   - [arXiv URL](https://arxiv.org/abs/2406.19662)
+   - [Code URL](https://github.com/pnnl/neuromancer/tree/feature/fbkans/examples/KANs)
+5. [PDE solver] Graph Neural PDE Solvers with Conservation and Similarity-Equivariance
+   - [Paper URL](https://openreview.net/forum?id=WajJf47TUi)
+6. [PINNs × Manufacturing] Physics-informed neural networks for data-free surrogate modelling and engineering optimization – An example from composite manufacturing
+   - [Paper URL](https://www.sciencedirect.com/science/article/pii/S0264127523004495)
